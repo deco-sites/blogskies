@@ -1,1 +1,1 @@
-{"name":"About Us","path":"/about-us","sections":[],"seo":{"__resolveType":"website/sections/Seo/SeoV2.tsx"},"__resolveType":"website/pages/Page.tsx"}
+{"name":"About Us","path":"/about-us","sections":[{"__resolveType":"header"}],"seo":{"__resolveType":"website/sections/Seo/SeoV2.tsx"},"__resolveType":"website/pages/Page.tsx"}
